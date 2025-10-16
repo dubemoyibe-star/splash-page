@@ -8,9 +8,7 @@ body {
     margin: 0;
 }
 
-/* =================
-    Typography 
-   ================= */
+/*   Typography  */
 
 h1 {
     font-size: 2.5rem;
@@ -59,9 +57,7 @@ p {
     color: #858585;
 }
 
-/* =================
-    Flex containers
-   ================= */
+/* flex containers */
 
 .intro,
 .main-content {
@@ -71,9 +67,7 @@ p {
     padding-right: 2em;   
 }
 
-/* =================
-    Intro
-   ================= */
+/*intro */
 
 .intro { 
     justify-content: space-between;
@@ -85,9 +79,7 @@ p {
     padding-bottom: 1.5em;
 }
 
-/* ====================
-    Main content
-   ==================== */
+/*main content*/
    
 .main-content {
     align-items: center;
@@ -104,9 +96,7 @@ form {
     max-width: 450px;
 }
 
-/* =================
-    Form
-   ================= */
+/* form */
 
 input,
 button {
@@ -147,9 +137,7 @@ input:focus {
     background-color: #b7a7f6;
 }
 
-/* =================
-    Media queries 
-   ================= */
+/* media queries */
 
 @media (min-width: 576px) {
     body {
